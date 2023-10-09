@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Este es un repositorio de prueba del modulo 2 
+Maria Jose este proyecto es una prueba de como crear un repositorio 
